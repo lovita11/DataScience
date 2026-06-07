@@ -42,5 +42,6 @@ Menggunakan Jupyter Notebook
 3. Buka terminal atau Anaconda Prompt.
 4. Jalankan perintah:
 
+
 6. Kesimpulan
 Pembelajaran Data Science membantu memahami pengolahan data, visualisasi data, dan evaluasi model machine learning.
