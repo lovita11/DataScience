@@ -30,6 +30,7 @@ Tujuan pembelajaran Data Science pada repository ini adalah untuk memahami prose
 - GitHub
 
 5. Cara menjalankan Notebook
+
 Menggunakan Google Colab
 1. Buka link notebook.
 2. Klik **Open in Colab**.
