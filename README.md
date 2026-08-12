@@ -21,7 +21,7 @@ Tujuan pembelajaran Data Science pada repository ini adalah untuk memahami prose
 | 6 | Persiapan Data untuk Machine Learning | (https://github.com/lovita11/DataScience/blob/main/Pertemuan6_LovitaPrasetia_250401020061.ipynb) |
 | 7 | Pengantar Machine Learning: Regresi Linier | (https://github.com/lovita11/DataScience/blob/main/Pertemuan7_LovitaPrasetiaLestari_250401020061.ipynb) |
 | 9 | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score. | (https://github.com/lovita11/DataScience/blob/main/pertemuan9_lovita_prasetia_lestari_250401020061.ipynb) |
-| 10 | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset.|(https://github.com/lovita11/DataScience/blob/main/Pertemuan10_LovitaPrasetiaLestari_250401020061.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset.|(https://github.com/lovita11/DataScience/blob/main/Pertemuan10_LovitaPrasetialestari_250401020061.ipynb) |
 
 #4. Tools yang Digunakan
 - Python
