@@ -49,4 +49,8 @@ Menggunakan Jupyter Notebook
 
 
 #6. Kesimpulan
-Pembelajaran Data Science membantu memahami pengolahan data, visualisasi data, dan evaluasi model machine learning.
+Pembelajaran Data Science dari Pertemuan 1–13 memberikan pemahaman mengenai proses pengolahan dan analisis data secara bertahap, mulai dari pengenalan Data Science dan Python, pengolahan dan pembersihan data, analisis statistik, visualisasi data, hingga penerapan Machine Learning.
+
+Materi yang dipelajari mencakup regresi, klasifikasi menggunakan Logistic Regression dan Decision Tree, Random Forest dan penanganan imbalanced dataset, evaluasi model, clustering menggunakan K-Means dan Hierarchical Clustering, serta Association Rule menggunakan Support, Confidence, dan Lift.
+
+Secara keseluruhan, praktikum ini memberikan pemahaman mengenai proses Data Science secara end-to-end, mulai dari pengolahan dan eksplorasi data hingga pembangunan, evaluasi, dan interpretasi model menggunakan Python dan Google Colab.
