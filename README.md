@@ -4,10 +4,9 @@
 - Kelas: IF403
 
 #2.  Deskripsi
-Repository ini berisi tugas dan latihan praktikum Data Science dari pertemuan 1 sampai 7 menggunakan Python dan Google Colab.
-Di dalam repository ini terdapat beberapa notebook yang membahas dasar-dasar Data Science, mulai dari pengolahan data, visualisasi data, statistik dasar, data cleaning, hingga pengantar machine learning.
-Setiap notebook dibuat sebagai dokumentasi proses pembelajaran dan praktik analisis data menggunakan Python.
-Tujuan pembelajaran Data Science pada repository ini adalah untuk memahami proses analisis data, visualisasi data, pengolahan dataset, serta evaluasi model machine learning.
+Repository ini berisi tugas dan latihan praktikum Data Science dari Pertemuan 1 sampai 13 yang dikerjakan menggunakan Python dan Google Colab. Materi pembelajaran mencakup pengenalan Data Science, struktur data Python, NumPy dan Pandas, pengolahan dan pembersihan data, analisis statistik, visualisasi data, serta persiapan data untuk Machine Learning.
+Pada tahap Machine Learning, materi meliputi regresi linier, klasifikasi menggunakan Logistic Regression dan Decision Tree, evaluasi model menggunakan Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score, serta metode Random Forest dan penanganan imbalanced dataset. Pembelajaran juga mencakup clustering menggunakan K-Means, Elbow Method, dan Hierarchical Clustering, serta Association Rule untuk menemukan hubungan antar-item menggunakan Support, Confidence, dan Lift.
+Setiap notebook disusun sebagai dokumentasi proses pembelajaran dan praktik analisis data. Secara keseluruhan, repository ini menggambarkan proses pembelajaran Data Science secara bertahap, mulai dari pengolahan dan eksplorasi data hingga pembangunan, evaluasi, dan interpretasi model Machine Learning.
 
 #3. List Pertemuan 1 - 7
 
