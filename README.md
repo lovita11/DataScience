@@ -25,6 +25,7 @@ Tujuan pembelajaran Data Science pada repository ini adalah untuk memahami prose
 | 11 | Unsupervised Learning: Clustering |(https://github.com/lovita11/DataScience/blob/main/Pertemuan11_LovitaPrasetiaLestari_250401020061.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar |(https://github.com/lovita11/DataScience/blob/main/Pertemuan12_LovitaPrasetiaLestari_250401020061.ipynb) |
 | 13 | Pengantar Deep Learning & NLP Dasar |(https://github.com/lovita11/DataScience/blob/main/Pertemuan13_LovitaPrasetiaLestari_250401020061.ipynb) |
+
 #4. Tools yang Digunakan
 - Python
 - Google Colab
