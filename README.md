@@ -22,7 +22,9 @@ Tujuan pembelajaran Data Science pada repository ini adalah untuk memahami prose
 | 7 | Pengantar Machine Learning: Regresi Linier | (https://github.com/lovita11/DataScience/blob/main/Pertemuan7_LovitaPrasetiaLestari_250401020061.ipynb) |
 | 9 | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score. | (https://github.com/lovita11/DataScience/blob/main/pertemuan9_lovita_prasetia_lestari_250401020061.ipynb) |
 | 10 | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset.|(https://github.com/lovita11/DataScience/blob/main/Pertemuan10_LovitaPrasetialestari_250401020061.ipynb) |
-
+| 11 | Unsupervised Learning: Clustering |(https://github.com/lovita11/DataScience/blob/main/Pertemuan11_LovitaPrasetialestari_250401020061.ipynb) |
+| 12 | Asosiasi Data & Sistem Rekomendasi Dasar |(https://github.com/lovita11/DataScience/blob/main/Pertemuan12_LovitaPrasetialestari_250401020061.ipynb) |
+| 13 | Pengantar Deep Learning & NLP Dasar |(https://github.com/lovita11/DataScience/blob/main/Pertemuan13_LovitaPrasetialestari_250401020061.ipynb) |
 #4. Tools yang Digunakan
 - Python
 - Google Colab
